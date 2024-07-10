@@ -1,3 +1,2 @@
-print("My friend is 'no one' ")
-friend = 'who'
-print(friend)
+name = input("Enter your name ")
+print(f"{name}, will you be my friend?")
